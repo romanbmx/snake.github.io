@@ -1,5 +1,6 @@
 const canvas = document.getElementById("snake_game");
 const ctx = canvas.getContext("2d");
+alert('Use your keywords to play: "up", "down", "right" or "left" ')
 
 // Об'єкти фоток і звідки їх беремо
 const ground = new Image();
